@@ -1,5 +1,4 @@
 A lightweight 2D game engine built from scratch in C++ for learning and rapid prototyping. This engine focuses on simplicity and performance while providing essential 2D game development features.
-Features
 
 Efficient 2D Rendering: Custom OpenGL-based renderer optimized for 2D graphics
 Entity Component System: Flexible ECS architecture for game object management
